@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Zako563/zako563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  ## 🏆 GitHub Profile Trophy
+  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zako563&theme=darklover)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Zako's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zako563&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+![Zako's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zako563&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zako563&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
